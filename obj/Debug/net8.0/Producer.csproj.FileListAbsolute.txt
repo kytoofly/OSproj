@@ -1,0 +1,4 @@
+/home/kyflem/Part_B/IPC/obj/Debug/net8.0/Producer.GeneratedMSBuildEditorConfig.editorconfig
+/home/kyflem/Part_B/IPC/obj/Debug/net8.0/Producer.AssemblyInfoInputs.cache
+/home/kyflem/Part_B/IPC/obj/Debug/net8.0/Producer.AssemblyInfo.cs
+/home/kyflem/Part_B/IPC/obj/Debug/net8.0/Producer.csproj.CoreCompileInputs.cache

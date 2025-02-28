@@ -1,0 +1,14 @@
+/home/kyflem/Part_B/IPC/ErrorHandlingTest/ErrorHandlingTest/bin/Debug/net8.0/ErrorHandlingTest
+/home/kyflem/Part_B/IPC/ErrorHandlingTest/ErrorHandlingTest/bin/Debug/net8.0/ErrorHandlingTest.deps.json
+/home/kyflem/Part_B/IPC/ErrorHandlingTest/ErrorHandlingTest/bin/Debug/net8.0/ErrorHandlingTest.runtimeconfig.json
+/home/kyflem/Part_B/IPC/ErrorHandlingTest/ErrorHandlingTest/bin/Debug/net8.0/ErrorHandlingTest.dll
+/home/kyflem/Part_B/IPC/ErrorHandlingTest/ErrorHandlingTest/bin/Debug/net8.0/ErrorHandlingTest.pdb
+/home/kyflem/Part_B/IPC/ErrorHandlingTest/ErrorHandlingTest/obj/Debug/net8.0/ErrorHandlingTest.GeneratedMSBuildEditorConfig.editorconfig
+/home/kyflem/Part_B/IPC/ErrorHandlingTest/ErrorHandlingTest/obj/Debug/net8.0/ErrorHandlingTest.AssemblyInfoInputs.cache
+/home/kyflem/Part_B/IPC/ErrorHandlingTest/ErrorHandlingTest/obj/Debug/net8.0/ErrorHandlingTest.AssemblyInfo.cs
+/home/kyflem/Part_B/IPC/ErrorHandlingTest/ErrorHandlingTest/obj/Debug/net8.0/ErrorHandlingTest.csproj.CoreCompileInputs.cache
+/home/kyflem/Part_B/IPC/ErrorHandlingTest/ErrorHandlingTest/obj/Debug/net8.0/ErrorHandlingTest.dll
+/home/kyflem/Part_B/IPC/ErrorHandlingTest/ErrorHandlingTest/obj/Debug/net8.0/refint/ErrorHandlingTest.dll
+/home/kyflem/Part_B/IPC/ErrorHandlingTest/ErrorHandlingTest/obj/Debug/net8.0/ErrorHandlingTest.pdb
+/home/kyflem/Part_B/IPC/ErrorHandlingTest/ErrorHandlingTest/obj/Debug/net8.0/ErrorHandlingTest.genruntimeconfig.cache
+/home/kyflem/Part_B/IPC/ErrorHandlingTest/ErrorHandlingTest/obj/Debug/net8.0/ref/ErrorHandlingTest.dll
